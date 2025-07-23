@@ -47,24 +47,23 @@ Welcome to **Online Food Delivery.com** — a sleek and responsive food ordering
 
 ## 📁 Folder Structure
 ```
-
-Online-Food-Delivery/
-├── index.html
-├── style.css
-├── phone.css
-├── assets/
-│ ├── logo.png
-│ ├── img1.jpg
-│ ├── img2.jpg
-│ ├── img3.jpg
-│ ├── logo1.png
-│ ├── logo2.png
-│ ├── logo3.png
-│ ├── logo4.png
-│ ├── logo5.png
-│ ├── screenshot1.png
-│ ├── screenshot2.png
-│ └── screenshot3.png
+├── index.html              # Main webpage structure
+├── style.css               # Styling and layout
+├── phone.css               # Mobile responsiveness styles
+├── README.md               # Project documentation
+└── assets/                 # Images and media assets
+    ├── logo.png
+    ├── img1.jpg
+    ├── img2.jpg
+    ├── img3.jpg
+    ├── logo1.png
+    ├── logo2.png
+    ├── logo3.png
+    ├── logo4.png
+    ├── logo5.png
+    ├── screenshot1.png     # Home Page preview
+    ├── screenshot2.png     # Services Section preview
+    └── screenshot3.png     # Contact Section preview
 
 ````
 
