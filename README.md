@@ -1,8 +1,6 @@
-Sure, Toheed! Here's your **final, clean, and simple `README.md`** — no _Live Demo_, no _To-Do_, just the essential info with a neat layout:
 
----
 
-```markdown
+
 # 🍽️ Online Food Delivery Website
 
 Welcome to **Online Food Delivery.com** — a sleek and responsive food ordering platform designed to showcase food ordering, catering, and bulk delivery services. This project is built with HTML and CSS, making it beginner-friendly and lightweight.
